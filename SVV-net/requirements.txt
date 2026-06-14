@@ -1,9 +1,0 @@
-numpy
-openpyxl
-pandas
-Pillow
-pytest
-torch
-torchvision
-tqdm
-xlrd
